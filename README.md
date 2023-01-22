@@ -13,7 +13,8 @@ There are various Resnet models since first created, and the number after its na
 
 ### Update after 10 Epochs
 
-<img width="505" alt="Screenshot 2023-01-21 at 23 54 55" src="https://user-images.githubusercontent.com/111536571/213894877-b2fc2683-0f1d-4123-ab20-20dcc89dc2ef.png">
+<img width="512" alt="Screenshot 2023-01-21 at 23 56 52" src="https://user-images.githubusercontent.com/111536571/213894970-ae75e2e1-0ded-4126-8605-e730aea9a94b.png">
+
 
 <img width="662" alt="Screenshot 2023-01-21 at 23 57 23" src="https://user-images.githubusercontent.com/111536571/213894890-1da2359f-c2fa-444d-8a76-2be7cebfd9f7.png">
 
