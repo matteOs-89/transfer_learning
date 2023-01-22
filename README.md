@@ -1,4 +1,4 @@
-# transfer_learning
+# Resnet18 transfer learning
 
 In this task we will forcus on using transfer learning technique to classify EMNIST Letters dataset, Resnet18 Architechure will be used and the performance of the model we be evaluated.
 
@@ -18,4 +18,4 @@ There are various Resnet models since first created, and the number after its na
 <img width="662" alt="Screenshot 2023-01-21 at 23 57 23" src="https://user-images.githubusercontent.com/111536571/213894890-1da2359f-c2fa-444d-8a76-2be7cebfd9f7.png">
 
 
-Training was stopped after 10 epochs, the graph shows that the model had not reached its global minimum, and will more training or fine tuning able accurracy score could be achieved.
+Training was stopped after 10 epochs, the graph shows that the model had not reached its global minimum, and with more training or fine tuning a better inference score could be achieved.
